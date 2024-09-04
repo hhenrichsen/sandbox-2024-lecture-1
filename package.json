@@ -1,0 +1,22 @@
+{
+  "name": "sandbox-2024-lecture-1",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@catppuccin/highlightjs": "^0.2.2",
+    "@types/bun": "latest",
+    "prettier": "^3.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@catppuccin/palette": "^1.2.0",
+    "reveal.js": "^5.1.0",
+    "vite": "^5.4.3"
+  }
+}
